@@ -1,6 +1,7 @@
 ---
 title: Ziao Zhao
 role: ""
+avatar_filename: photoindex.jpg
 bio: My research interests include AI, data-driven optimization, machine
   learning and programmable matter.
 superuser: true
