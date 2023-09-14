@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
+title: AI
+date: 2022-01-01
 summary: Write about your project here...
 tags:
   - ML
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/Jackieziao/2022KUL_MAI
 ---
