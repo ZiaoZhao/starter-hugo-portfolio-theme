@@ -6,5 +6,5 @@ tags:
   - OR
 external_link: https://github.com/Jackieziao/Thesis_code
 image:
-  filename: featured.jpg
+  filename: featured.png
 ---
