@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
+title: Optimization
+date: 2022-01-01
 summary: Write about your project here...
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - OR
+external_link: https://github.com/Jackieziao/Thesis_code
 ---
