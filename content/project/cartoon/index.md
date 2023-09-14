@@ -5,4 +5,6 @@ summary: Write about your project here...
 tags:
   - CV
 external_link: http://github.com
+image:
+  filename: featured.jpg
 ---
