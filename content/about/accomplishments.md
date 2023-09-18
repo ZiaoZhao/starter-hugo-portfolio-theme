@@ -31,7 +31,7 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: ''
+    url: ''.
 
 design:
   columns: '1'
