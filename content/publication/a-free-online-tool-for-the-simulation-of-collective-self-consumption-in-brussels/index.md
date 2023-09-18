@@ -2,7 +2,7 @@
 title: A free online tool for the simulation of collective self-consumption in
   Brussels
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Babacar Sarr1
   - "*"
@@ -36,5 +36,5 @@ image:
   filename: null
   focal_point: Smart
   preview_only: false
-date: 2023-09-18T01:36:58.852Z
+date: 2023-09-18T02:54:58.527Z
 ---
