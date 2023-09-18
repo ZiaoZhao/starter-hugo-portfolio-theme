@@ -8,5 +8,5 @@ main:
     url: /
     weight: 10
   - name: Resume
-    url: about/
+    url: content/about/
     weight: 20
